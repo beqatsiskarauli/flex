@@ -24,7 +24,7 @@
 	display: flex;
 }
 .nav-li2{
-	margin-right: 20px;
+	margin-right: 40px;
 }
 .nav-li2:after{
 	content: '';
@@ -32,6 +32,7 @@
 	height: 30px;
 	background-color: blue;
 	display: inline-block;
+	margin-left: 20px;
 }
 .bolo:after{
 	display: none;
@@ -44,14 +45,15 @@
 	margin: 0 auto;
 	position: relative;
 }
+.img{
+	position: absolute;
+	width: 100px;
+	bottom: 60px;
+	right: 30px;
+}
 .div2-img{
 	padding-top: 30px;
 	padding-bottom: 30px;
-}
-.logo2{
-	position: absolute;
-	bottom: 0;
-	right: 0;
 }
 .section2{
 	background-color: #363E97;
