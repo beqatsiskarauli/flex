@@ -73,6 +73,9 @@
 	height: 320px;
 	background-color: #F2F2F2;
 	margin-right: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .sec2-p{
 	font-size: 17px;
@@ -86,6 +89,9 @@
 	margin: 0 auto;
 	padding-top: 40px;
 	padding-bottom: 89px;
+}
+.box{
+	display: block;
 }
 .main-box{
 	display: flex;
@@ -108,8 +114,7 @@
 }
 .sec4-h2{
 	font-size: 24px;
-	padding-top: 30px;
-	padding-left: 15px;
+	padding-top: 18px;
 	margin-bottom: 27px;
 	color: #3D58A6;
 }
@@ -117,9 +122,11 @@
 	background-color: #F2F2F2;
 	margin-right: 30px;
 	padding: 10px;
+
 }
 .sec4-wraper{
 	display: flex;
+	padding-bottom: 30px;
 }
 .sec4-p{
 	width: 355px;
@@ -128,7 +135,7 @@
 }
 .flex4{
 	display: flex;
-	padding-right: 
+	padding-right:  
 }
 .left{
 	margin-left: 40px;
@@ -157,4 +164,7 @@
 	font-size: 12px;
 	padding-top: 26px;
 	padding-bottom: 24px;
+}
+.box img{
+	display: block;
 }
