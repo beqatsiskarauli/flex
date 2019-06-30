@@ -144,3 +144,17 @@
 .BIG{
 	text-transform: uppercase;
 }
+.sec5-conteiner{
+	width: 1170px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+.sec5-flex{
+	display: flex;
+	justify-content: space-between;
+}
+.sec5-p{
+	font-size: 12px;
+	padding-top: 26px;
+	padding-bottom: 24px;
+}
