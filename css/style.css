@@ -179,3 +179,21 @@
 	height: 320px;
 	display: block;
 }
+.sec6{
+	background-color: #CCCCCC;
+}
+.sec6-wraper{
+	width: 1170px;
+	margin: 0 auto;
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+.sec6-box{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.go-back{
+	font-size: 22px;
+	color: aqua;
+}
