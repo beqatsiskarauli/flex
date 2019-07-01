@@ -121,8 +121,8 @@
 }
 .sec4-h2{
 	font-size: 24px;
-	padding-top: 35px;
-	padding-bottom: 38px;
+	padding-top: 16px;
+	padding-bottom: 18px;
 	color: #3D58A6;
 }
 .sec4-box{
@@ -134,7 +134,6 @@
 .sec4-wraper{
 	display: flex;
 	justify-content: space-between;
-	padding-bottom: 30px;
 }
 .sec4-p{
 	width: 355px;
